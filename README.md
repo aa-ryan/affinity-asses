@@ -1,6 +1,8 @@
-## AffinityAnswers
+# AffinityAnswers
 
-#### Assesment
+### Assesment
+
+##### Assumptions
 
 * The Twitter tweets are stored in a text file, with each tweet on a new line.
 * The set of racial slurs is provided in a text file, with each slur on a new line.
